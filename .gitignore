@@ -1,0 +1,4 @@
+*.pdf
+Netlogo 6.0.4/
+*.ipynb_checkpoints
+to_send/
